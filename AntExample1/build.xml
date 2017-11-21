@@ -29,7 +29,7 @@
 	    <javac includeantruntime="false" />
 	  </presetdef>
 	
-	<war destfile="C:\apache-tomcat-8.0.43\webapps\AntExample.war"
+	<war destfile="/home/test123/softwares/apache-tomcat-8.0.43/webapps/AntExample.war"
 	 webxml="WebContent/WEB-INF/web.xml"> 
 	<fileset dir="WebContent"/>
 	
