@@ -50,8 +50,8 @@
 				label="Would you like to join our mailinglist?" /></td>
 		
 		
-		<body bgcolor="#E6E6FA">
-<h1>Hello world! --------Offer--------test..after change..tte..once morrrrreee...senddddddd testttt</h1>
+		<body bgcolor="#FBFF33">
+<h1>Hello world! --------verify final check before configuring ansible</h1>
 
 			
 		
